@@ -83,4 +83,5 @@ A: 如果没有 GPU，Whisper 会尝试使用 CPU 运行。通常库会自动处
 
 ## **📝 许可证**
 
-本项目代码基于 MIT 许可证开源。Whisper 模型遵循 OpenAI 的开源协议。
+
+本项目代码基于 GNU GPL v3 许可证开源。Whisper 模型遵循 OpenAI 的开源协议。
